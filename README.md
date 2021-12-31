@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Dart and Flutter
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: Majdi/Majdouch
 - ⚡ Fun fact: I speak 3 languages ( Arabic, French, English)
 
 
@@ -52,8 +52,8 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
+
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[instagram]: https://www.instagram.com/majdi.developer/
+[linkedin]: https://www.linkedin.com/in/aribimajdi/
+
