@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I'm a Flutter Developer...
+### I'm a Flutter Developer...
 
 
 
@@ -19,11 +19,16 @@ I'm a Flutter Developer...
 
 
 ## 🛠 Skills
-Dart, Flutter, VS Code, 
-AndroidStudio, Git, 
-Html, Css, 
+### Dart, Flutter, VS Code, 
+### AndroidStudio, Git, 
+### Html, Css, 
 
 ![Logo](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
+
+
+
+
 
 
 
