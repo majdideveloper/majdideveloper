@@ -1,5 +1,6 @@
 
-![Logo](https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif  )
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/hpF9R9M1PHN5e5liSx/giphy.gif?raw=true" width="500" height="320" />
 
 
 # Hi, I'm Majdi Aribi! 👋
