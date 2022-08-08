@@ -7,12 +7,12 @@
 
 # Hi, I'm Majdi Aribi! 👋
 
-A student in Holberton School from Tunisia.
+I am passionate about mobile development, I am a Self and Fast learner 
 ------------------------------------------------------------------
 
-* 🌍  I'm based in Tunisia
+* 🌍 I'm based in Tunisia
 * ✉️  You can contact me at [majdiaribi@outlook.com](mailto:majdiaribi@outlook.com)
-* 🧠  I'm learning Flutter ,C# and Unity
+* 🧠 I am student in Holberton School Tunisia.
 
 
 ## 🚀 About Me
@@ -63,6 +63,10 @@ A student in Holberton School from Tunisia.
  
 </p>
 
+
+
+
+<a href="http://www.github.com/majdideveloper"><img src="https://activity-graph.herokuapp.com/graph?username=majdideveloper&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
