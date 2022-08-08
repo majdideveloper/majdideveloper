@@ -1,6 +1,8 @@
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/oetjlLtrbbjlHTQvbs/giphy.gif?raw=true" width="500" height="320" />
+<p align="center">
+<img src="https://media0.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=790b76116e2a388f5f6f10d0313c30e62b755121af79704b&rid=giphy.gif&ct=g" >
+</p>
+<p align="center">
+ <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif"></p>
 
 
 
