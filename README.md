@@ -16,11 +16,7 @@ I am passionate about mobile development, I am a Self and Fast learner
 
 
 ## 🚀 About Me
-### Since my childhood, I have a dream to be a mobile application developer, but my school level is basic.In fact, I have always the idea of this hard field so I need to be a genius to be in this Domaine.
-### I finished my studies(baccalaureate degree)and I started working and after a certain period I stopped for some family issues.
-### Now, I’m starting with the internet.
-### I learned a lot of things like HTML, CSS, WordPress, Editing videos, Creation of content for Social Media and Facebook ADS.
-### I find such a great relief in not only developing and coding but also in programming.
+### I have a deep interest in competitive programming and problem-solving. I'm a great communicator, and a dynamic person through my experience in Holberton school I have worked on a lot of projects that made me technically confident however I still aiming to learn more and that is why I'm looking to develop my knowledge skills in a good company
 
 
 
