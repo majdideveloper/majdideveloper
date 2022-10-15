@@ -24,9 +24,7 @@ I am passionate about mobile development, I am a Self and Fast learner
 
 ## 🔗  My Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aribimajdi/)
-
-[![instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/majdi.developer/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aribimajdi/)[![instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/majdi.developer/)
 
 [![Youtube](https://img.shields.io/badge/Youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=white&color=red)](https://www.youtube.com/channel/UCuX1Dc5Bz3rrER49IZk8-Cg)
 
