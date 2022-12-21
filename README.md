@@ -43,7 +43,9 @@ I am passionate about mobile development, I am a Self and Fast learner
 -->
  
 </p>
-## 🔗  My Languages
+
+
+## 🔗 My Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majdideveloper&langs_count=8)](https://github.com/majdideveloper/github-readme-stats)
 
